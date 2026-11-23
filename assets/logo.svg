@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">SkillLoop logo</title>
+  <description id="description">A purple loop and upward arrow representing learning and growth</description>
+  <rect width="512" height="512" rx="112" fill="#6555df"/>
+  <path d="M184 326c-63-22-96-91-74-153 23-64 94-98 158-75 36 13 63 41 75 76" fill="none" stroke="#fff" stroke-width="38" stroke-linecap="round"/>
+  <path d="M328 174l15 78-78-15" fill="none" stroke="#fff" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M328 326c63 22 96 91 74 153-23 64-94 98-158 75-36-13-63-41-75-76" fill="none" stroke="#d9d4ff" stroke-width="38" stroke-linecap="round"/>
+  <circle cx="256" cx="256" r="58" fill="#fff"/>
+  <path d="M256 220l19 39 43 6-31 31 7 43-38-20-38 20 7-43-31-31 43-6z" fill="#6555df"/>
+</svg>
